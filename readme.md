@@ -34,9 +34,5 @@ Function file : function.xlsx, the name of the excel file contaning the logic fu
 
 Program works on MATLAB paltform and is tested on versions 2013 through 2017. Only core built-in functions are used so no simulink package is necessary. 
 
-## Further questions: 
-
-onur.tunali[at]itu[dot]edu[dot]tr
-www.ecc.itu.edu.tr
 
 
