@@ -18,7 +18,7 @@ Function file : function.xlsx, the name of the excel file contaning the logic fu
    
    1: Literal inclusion -1: Literal exclusion         			0: functional  -1 : Defects
 
-                    x1  x2  x3  x4                                             I1  I2  I3  I4
+                    x1  x2  x3  x4                                           I1  I2  I3  I4
            P1     1    1   -1   -1                                 	O1      0  0  1  -1
            P2    -1    1    1   -1                                 	O2     -1  0  0   1
            P3     1   -1   -1    1                                 	O3      0  1  0   0
